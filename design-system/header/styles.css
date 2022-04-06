@@ -1,0 +1,13 @@
+.wrap {
+  max-width: 1920px;
+}
+
+.header-nav {
+  display: flex;
+  flex-direction: column;
+}
+
+.details {
+  display: flex;
+  justify-content: space-around;
+}

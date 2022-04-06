@@ -1,0 +1,24 @@
+.container {
+  border: 3px solid silver;
+  height: 200px;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.item {
+  padding: 10px 20px;
+  color: white;
+  background-color: silver;
+}
+
+/* .item-1 {
+}
+
+.item-2 {
+}
+
+.item-3 {
+}
+
+.item-4 {
+} */

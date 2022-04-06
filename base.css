@@ -1,0 +1,47 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  _outline: 2px solid red;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  background-color: whitesmoke;
+  -webkit-box-shadow: 3px 3px 3px 3px #bfbfbf;
+  box-shadow: 3px 3px 3px 3px #bfbfbf;
+  /* margin: 0; */
+}
+
+a {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: "Bebas Neue", cursive;
+  font-size: 60px;
+}
+
+p {
+  font-size: 30px;
+}
+
+hr {
+  border-color: rgba(0, 0, 0, 0.108);
+  border-width: 5px;
+  width: 100%;
+}
